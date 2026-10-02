@@ -1,0 +1,15 @@
+ # Obsidian
+.obsidian/
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
